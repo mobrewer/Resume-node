@@ -1,0 +1,1 @@
+Made json files to hold info about myself
